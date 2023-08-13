@@ -344,8 +344,10 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/CreateSphere.cs"
 "Assets/CubeSpawner.cs"
 "Assets/ProcCube.cs"
+"Assets/ProcSphere.cs"
 "Assets/Spawner.cs"
 -langversion:9.0
 
